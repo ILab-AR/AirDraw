@@ -1,3 +1,3 @@
-# Where2Place
+# DrawInAir
 
-Solving label management in AR
+Pointing gesture classification system
