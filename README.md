@@ -1,3 +1,2 @@
-# DrawInAir
-
+# AirDraw
 Pointing gesture classification system
